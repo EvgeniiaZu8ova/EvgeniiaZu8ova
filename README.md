@@ -1,15 +1,9 @@
-#### Привет, меня зовут Евгения 👋
-- Я начинающий frontend-разработчик 👩‍💻
-- Хочу работать с настоящими проектами 🦸‍♀️
-- Изучаю фреймворки 🧩
-- Решаю задачи на codewars 🤓
+#### Hi! I am Evgeniia, Russian front-end developer 👩‍💻 
+I am continuously getting better at React-applications development and teamwork 🦸‍♀️
 
-#### Мой стек:
-- HTML5  
-- CSS  
-- JS  
-- Node.js  
-- React
+#### I work with:
+<img src="https://img.shields.io/badge/HTML-orange.svg" />  <img src="https://img.shields.io/badge/CSS-blue.svg" />  <img src="https://img.shields.io/badge/JS-yellow.svg" />  <img src="https://img.shields.io/badge/TS-royalblue.svg" />  <img src="https://img.shields.io/badge/React-deepskyblue.svg" />  <img src="https://img.shields.io/badge/Redux-darkviolet.svg" />  
+<img src="https://img.shields.io/badge/Next.js-black.svg" />  <img src="https://img.shields.io/badge/Node.js-forestgreen.svg" />  <img src="https://img.shields.io/badge/Webpack-mediumblue.svg" />  <img src="https://img.shields.io/badge/Cypress-slategrey.svg" />  
 
 
 <!---

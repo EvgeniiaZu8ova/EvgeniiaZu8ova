@@ -1,4 +1,4 @@
-#### Hi! I am Evgeniia, Russian front-end developer 👩‍💻 
+#### Hi! I am Evgeniia, front-end developer 👩‍💻 
 I am continuously getting better at React-applications development and teamwork 🦸‍♀️
 
 #### I work with:
